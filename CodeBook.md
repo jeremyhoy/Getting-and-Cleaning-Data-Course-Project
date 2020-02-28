@@ -1,6 +1,6 @@
 # Code book
 ## The dataset
-The data for this project is availble [here] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The data for this project is available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 From the readme.txt contained with this file:
 
