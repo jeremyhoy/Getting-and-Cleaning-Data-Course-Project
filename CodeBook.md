@@ -88,3 +88,11 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
+## Data set tranformations
+In the completion of this project the following transformations where made to the data:
+
++ Merge the training and the test sets to create one data set.
++ Extract only the measurements on the mean and standard deviation for each measurement.
++ Use descriptive activity names to name the activities in the data set
++ Appropriately label the data set with descriptive variable names.
++ Create a second, independent tidy data set with the average of each variable for each activity and each subject.
