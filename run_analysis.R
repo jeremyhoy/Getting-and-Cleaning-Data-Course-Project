@@ -3,14 +3,14 @@
 dataFile <- 'HAR.zip'
 dataFolder <- 'UCI HAR Dataset'
 
-if (!file.exists("HAR.zip")){
-    download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-        ,dataFile)
-}
+#if (!file.exists("HAR.zip")){
+#    download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+#        ,dataFile)
+#}
 
-if(!file.exists(dataFolder)){
-    unzip(dataFile)
-}
+#if(!file.exists(dataFolder)){
+#    unzip(dataFile)
+#}
 
 #Read data into data.frames
 subjectTest <- read.table("UCI HAR Dataset/test/subject_test.txt")
