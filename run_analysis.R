@@ -1,7 +1,7 @@
 #Download and unzip data files
 
-dataFile <- 'HAR.zip'
-dataFolder <- 'UCI HAR Dataset'
+#dataFile <- 'HAR.zip'
+#dataFolder <- 'UCI HAR Dataset'
 
 #if (!file.exists("HAR.zip")){
 #    download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
